@@ -3,6 +3,17 @@
 */
 
 const markdown = `
+## v1.1.0
+\`Codename: Biocircuit\`
+\nAdded new pp system version \`04-13-25\`.
+
+- Added weights \`e\` and \`f\`.
+- Added new factor \`penaltyFactor\`.
+- Added if statements.
+- Added new bonuses \`totalLengthBonus\`, \`coherenceBonus\` and \`readingBonus\`.
+- Deflated values from being broken (for rebalancing).
+- Added nerf \`shortWordsNerf\`.
+
 ## v1.0.0
 \`Codename: Aethernet\`
 \nInitial release of the pp system.
