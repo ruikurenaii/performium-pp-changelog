@@ -12,6 +12,7 @@ const markdown = `
 - Added more if statements
 - Added star rating and \`starRatingBonus\`
 - Added \`angleBonus\`
+- Rebalanced pp values
 
 ## v1.1.0
 \`Codename: Biocircuit\`
