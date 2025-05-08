@@ -4,6 +4,18 @@
 
 
 const markdown = `
+## v1.3.0
+\`Codename: Datastream\`
+\nAdded new pp system verison \`05-07-25\`
+\nThis update introduces ppv2, a complete rewrite to the pp system similar to osu!'s ppv2.
+
+- Rewritten the pp system
+- Added difficulty factors
+- Rebalanced pp values
+- Add the time bonus based from \`totalFocusTime\`
+- Added bonus pp similar to osu!
+- Added penalties similar to the osu!standard judgment
+
 ## v1.2.0
 \`Codename: Cryoengine\`
 \nAdded new pp system version \`04-29-25\`
