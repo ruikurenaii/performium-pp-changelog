@@ -2,8 +2,16 @@
   markdown content goes here. the changelog changes if they're released.
 */
 
-
 const markdown = `
+## v1.4.0
+\`Codename: Exosynth\`
+\nAdded new pp system version \`05-15-25\`
+\nThis update introduces a complete rewrite to the system (not to be confused with ppv3).
+
+- Rebalanced pp values
+- Rewritten the pp system
+- Add changes from osu! to this plugin
+
 ## v1.3.0
 \`Codename: Datastream\`
 \nAdded new pp system verison \`05-07-25\`
