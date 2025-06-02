@@ -3,6 +3,18 @@
 */
 
 const markdown = `
+## v1.5.0
+\`Codename: Fluxgate\`
+\nThis next update lists out every confirmed rework possible, the final output may not be the same as what is listed here!
+
+- Added bonus pp based on the times it has been executes
+- Added bonus pp based on how many total characters are in the user's vault
+- Scaled strain pp with the percentage of difficult words
+- Moved bonus after compressing the inital pp
+- Reworked bonus pp based on the user's total session time (duplicated)
+- Used \`Math.pow()\` instead of dividing the total pp
+- Multiplied aim and accuracy pp by 1.08
+
 ## v1.4.0
 \`Codename: Exosynth\`
 \nAdded new pp system version \`05-15-25\`
