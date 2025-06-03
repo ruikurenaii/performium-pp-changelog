@@ -11,9 +11,11 @@ const markdown = `
 - Added bonus pp based on how many total characters are in the user's vault
 - Scaled strain pp with the percentage of difficult words
 - Moved bonus after compressing the inital pp
-- Reworked bonus pp based on the user's total session time (duplicated)
+- Reworked bonus pp based on the user's total session time (it was duplicated on \`v1.4.0\`)
 - Used \`Math.pow()\` instead of dividing the total pp
 - Multiplied aim and accuracy pp by 1.08
+- Added the precision buff commit from the next osu! performance rework
+- Multiplied the final pp value by \`1.015\`
 
 ## v1.4.0
 \`Codename: Exosynth\`
