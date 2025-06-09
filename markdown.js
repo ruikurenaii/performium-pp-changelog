@@ -5,7 +5,8 @@
 const markdown = `
 ## v1.5.0
 \`Codename: Fluxgate\`
-\nThis next update lists out every confirmed rework possible, the final output may not be the same as what is listed here!
+\nAdded new pp system version \`06-09-25\`
+\nThis update adds tons of reworks to the system!
 
 - Added bonus pp based on the times it has been executes
 - Added bonus pp based on how many total characters are in the user's vault
