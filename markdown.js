@@ -3,6 +3,12 @@
 */
 
 const markdown = `
+## 1.6.0
+\`Codename: Gravisphere\`
+\nThis next update lists out confirmed changes for next deploy. Withour further ado, kindly read what will come to the next version of the performance system:
+
+- Moved and Reworked the bonus pp based on how much time you have spent inside Obsidian.
+
 ## v1.5.0
 \`Codename: Fluxgate\`
 \nAdded new pp system version \`06-09-25\`
