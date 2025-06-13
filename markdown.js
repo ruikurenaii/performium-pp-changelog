@@ -15,7 +15,7 @@ const markdown = `
 
 ## v1.5.1
 \`Codename: ???\`
-This hotfix changes the plugin settings, which should now be accessible. For now, there are reworks that have been applied to the test version for the next update:
+\nThis hotfix changes the plugin settings, which should now be accessible. For now, there are reworks that have been applied to the test version for the next update:
 - Moved and Reworked the bonus pp based on how much time you have spent inside Obsidian.
 
 ## v1.5.0
