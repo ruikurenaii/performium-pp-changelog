@@ -5,17 +5,19 @@
 const markdown = `
 ## v1.6.0
 \`Codename: Gravisphere\`
-\nThis next update lists out confirmed changes for next deploy. Without further ado, kindly read what will come to the next version of the performance system:
 
-- Moved and Reworked the bonus pp based on how much time you have spent inside Obsidian.
+- ~~Moved and Reworked the bonus pp based on how much time you have spent inside Obsidian.~~
 - Removed combo scaling to speed performance
 - Added the Q2 rebalance rework from the next osu! performance rework
 - Added note rhythm so users can write notes with a flow
 - Punished aim and speed performance values with slow rhythm
+- Added slider complexity based on the amount of sliders (average length of a paragraph)
+- Added performance multipliers for future rebalances
 
 ## v1.5.1
 \`Codename: ???\`
 \nThis hotfix changes the plugin settings, which should now be accessible. For now, there are reworks that have been applied to the test version for the next update:
+
 - Moved and Reworked the bonus pp based on how much time you have spent inside Obsidian.
 
 ## v1.5.0
