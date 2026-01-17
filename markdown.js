@@ -4,6 +4,11 @@
 
 const markdown = `
 ## v1.6.0
+\`Codename: Hyperloop\`
+
+- An addition to strain performance, which includes a small multiplier with the use of the vault's total file count.
+
+## v1.6.0
 \`Codename: Gravisphere\`
 
 - ~~Moved and Reworked the bonus pp based on how much time you have spent inside Obsidian.~~
